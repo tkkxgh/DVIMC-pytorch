@@ -2,6 +2,8 @@
 
 This is a Pytorch implementation of “Deep Variational Incomplete Multi-view Clustering: Exploring Shared Clustering"
 Structures”
+
+Run "python main.py".
 ## Requirements
 
 - Python 3.11.0
